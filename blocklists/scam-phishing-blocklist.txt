@@ -1,0 +1,9 @@
+# Blocklist for blocking scam & phishing links
+# RAW File: https://raw.githubusercontent.com/michivonah/dns-blocklists/main/blocklists/scam-phishing-blocklist.txt
+
+*.ups-daily.com
+*.whatsap.top
+*.srvtrck.com
+*.tinyurl.com
+*.tinyurl5.ru
+/\.zip$/
