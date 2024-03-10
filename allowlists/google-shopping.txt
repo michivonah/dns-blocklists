@@ -1,0 +1,5 @@
+# Custom allowlist for Google Shopping
+# GitHub: https://github.com/michivonah/dns-blocklists
+
+ad.doubleclick.net
+adservice.google.com
