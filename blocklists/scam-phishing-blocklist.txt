@@ -1,5 +1,5 @@
 # Blocklist for blocking scam & phishing links
-# Supported by adguard home
+# Supported by adguard home and similar software
 # RAW File: https://raw.githubusercontent.com/michivonah/dns-blocklists/main/blocklists/scam-phishing-blocklist.txt
 
 ||ups-daily.com^
@@ -7,4 +7,8 @@
 ||srvtrck.com^
 ||tinyurl.com^
 ||tinyurl5.ru^
+||sharinglinks8.wixsite.com^$important
+||dvhjy.com^
+||post.ch-infohj.top^
+||evri.officeuk.cyou^
 /\.zip$/
