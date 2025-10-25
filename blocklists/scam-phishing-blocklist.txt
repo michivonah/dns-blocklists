@@ -11,4 +11,14 @@
 ||dvhjy.com^
 ||post.ch-infohj.top^
 ||evri.officeuk.cyou^
+||cralahuecha.com^
+||a.cralahuecha.com^
+||impressionsoleilcouleurs.com^
+||kakao.com^
+||potantial.com^
+||ronewalls.uk^
+||howtomeasurecobb.com^
+||faqs.stcecyten.org^
+||upgrades.stcecyten.org^
+||ivp.ypb.mybluehost.me^
 /\.zip$/
