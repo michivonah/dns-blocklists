@@ -22,3 +22,4 @@
 ||upgrades.stcecyten.org^
 ||ivp.ypb.mybluehost.me^
 /\.zip$/
+||legont.com^
